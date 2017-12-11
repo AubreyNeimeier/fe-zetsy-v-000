@@ -36,3 +36,8 @@ img{
 	border-style:solid;
 	border-color:#CCC;
 }
+
+img:hover{
+	border-color:rgb(152,173,166);
+	cursor: pointer; 
+}
