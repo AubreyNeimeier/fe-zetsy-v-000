@@ -54,8 +54,8 @@ h1{
 	font-family: 'Baskerville', serif;
 	}
 
-a h1{
-	text-decoration:none;
+a > h1{
+	text-decoration: none;
 	color:rgb(152,173,166);
 }
 
