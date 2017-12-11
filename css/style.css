@@ -6,20 +6,7 @@
 	src: url(fonts/baskerville.ttc);
 }
 
-h1{
-	font-family: 'Baskerville', serif;
-	font-size:5em;
-	color:#CCC;
-	}
 
-a{
-	text-decoration: none;
-}
-a h1:hover{
-	color:rgb(152,173,166);
-	cursor: pointer;
-	text-decoration: none;
-}
 /*////////// Global Styles //////////*/
 
 body {
@@ -50,4 +37,23 @@ img{
 .press img:hover{
 	border-color:rgb(152,173,166);
 	cursor: pointer;
+}
+
+h1{
+	font-family: 'Baskerville', serif;
+	font-size:5em;
+	color:#CCC;
+	}
+
+a{
+	text-decoration: none;
+}
+a h1:hover{
+	color:rgb(152,173,166);
+	cursor: pointer;
+	text-decoration: none;
+}
+
+h2{
+	font-size: 2em;
 }
