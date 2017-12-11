@@ -74,4 +74,6 @@ p{
 	text-decoration: underline;
 }
 
-footer{float:right;}
+.footer{
+	float:right;
+}
