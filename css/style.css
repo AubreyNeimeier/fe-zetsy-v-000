@@ -9,7 +9,8 @@
 /*////////// Global Styles //////////*/
 
 body {
-	margin-top: 0px;
+	margin-top: 0;
+	padding-top: 0;
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Baskerville','Times New Roman', serif;
