@@ -45,6 +45,9 @@ h1{
 	color:#CCC;
 	}
 
+a{
+	text-decoration:none;
+}
 
 a h1:hover{
 	color:rgb(152,173,166);
