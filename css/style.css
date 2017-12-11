@@ -2,12 +2,12 @@
 
 /* link the web font used for the level 1 heading here */
 @font-face {
-	font-family: 'Bakersville';
-	src: url(Bakersville.ttc);
+	font-family: 'Baskerville';
+	src: url(Bakserville.ttc);
 }
 
 h1, h2{
-	font-family: 'Bakersville', 'Times New Roman', serif;
+	font-family: 'Baskerville', 'Times New Roman', serif;
 }
 
 /*////////// Global Styles //////////*/
