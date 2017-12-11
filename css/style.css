@@ -28,6 +28,6 @@ body {
 /* Write all remaining styles here */
 img{
 	border: 5px;
-	color: rgba(152,173,166);
+	color: rgb(152,173,166);
 	border-style: solid;
 }
