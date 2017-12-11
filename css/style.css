@@ -26,8 +26,13 @@ body {
 }
 
 /* Write all remaining styles here */
-img{
+.featured img{
 	border: 5px;
 	color: rgb(152,173,166);
 	border-style: solid;
+}
+img{
+	border:5px;
+	border-style:solid;
+	color:#F3EBE9;
 }
