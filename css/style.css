@@ -67,6 +67,6 @@ p{
 	text-decoration:none;
 	color: #1783bb;
 }
-#featured a:hover{
+.featured a:hover{
 	text-decoration: underline;
 }
