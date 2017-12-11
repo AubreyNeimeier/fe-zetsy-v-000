@@ -37,7 +37,7 @@ img{
 	border-color:#CCC;
 }
 
-img:hover{
+.press img:hover{
 	border-color:rgb(152,173,166);
 	cursor: pointer;
 }
