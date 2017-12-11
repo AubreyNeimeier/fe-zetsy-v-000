@@ -65,6 +65,10 @@ a h1:hover{
 	text-decoration: none;
 }
 
+.logo{
+	text-decoration:none;
+}
+
 h2{
 	font-size: 2em;
 	color:rgb(111,127,122);
