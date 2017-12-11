@@ -23,6 +23,15 @@ body {
 }
 
 /* Write all remaining styles here */
+.clearfix:after{
+	content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  height: 0;
+  line-height:0;
+}
+}
 .featured img{
 	border: 5px;
 	color: rgb(152,173,166);
