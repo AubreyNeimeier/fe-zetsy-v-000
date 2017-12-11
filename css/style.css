@@ -52,7 +52,7 @@ a h1{
 }
 
 a h1:hover{
-	color:#555
+	color:rgb(152,173,166);
 	cursor: pointer;
 	text-decoration: none;
 }
